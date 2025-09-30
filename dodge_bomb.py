@@ -138,7 +138,7 @@ def main():
         
         pg.display.update()
         tmr += 1
-        clock.tick(60)
+        clock.tick(50)
 
 #---
 ## プログラムの実行
